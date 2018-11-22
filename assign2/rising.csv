@@ -1,26 +1,26 @@
-query,value
-where do i vote in the 2016 united states election #everyonein2016,5260500
-2016 vote,5254450
-where do i vote in the 2016 united states election,5217350
-united states election results 2016,522050
-election results 2016,518800
-2016 election results,509950
-2016 presidential election results,405200
-united states 2016 presidential election results,388700
-where to vote in the 2016 united states election,256950
-where do i vote,112250
-us election 2016,94650
-election results 2018,73050
-2018 united states election results,71450
-democratic primary election results,64950
-united states democratic primary results,60100
-election day 2016,48950
-2016,33600
-2016 us election results,31350
-2016 election,27500
-united states 2016 election,27400
-primary election results new hampshire,26850
-primary election results iowa,25200
-am i registered to vote,23600
-election results 2016 usa,23050
-my ballot,21650
+query,value,value2
+2016 vote,5276700,85
+where do i vote,5151650,82
+where do i vote in the 2016 united states election #everyonein2016,5124100,82
+united states 2016 presidential election results,400300,6
+2016 presidential election results,399700,6
+where to vote in the 2016 united states election,262100,4
+donald trump,124250,2
+2016 election polls,115700,1
+united states republican primary results,82650,1
+2016 ballot,74300,1
+2018 united states election results,73900,1
+election results 2018,72400,1
+united states democratic primary results,61050,0
+democratic primary election results,58800,0
+2016 presidential election polls,57650,0
+2016 us election results,43050,0
+primary election results iowa,31750,0
+primary election results new hampshire,29800,0
+my ballot,27800,0
+election results 2016 usa,24650,0
+united states elections 2018,21700,0
+am i registered to vote,21050,0
+2016 election,18800,0
+bernie sanders,16500,0
+united states midterm election results,15600,0
